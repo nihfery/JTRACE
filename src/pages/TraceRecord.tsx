@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { useReadContract } from "wagmi";
 import { FileText, Loader2 } from "lucide-react";
 import { ethers } from "ethers";
-import contractAbi from "../abi/JTrace.json";
+import contractAbi from "../abi/Jtrace.json";
 
 const contractAddress = "0x7C162430F7D622A485D095F5C1cA87F38e0C7e70";
 
