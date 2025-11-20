@@ -11,7 +11,7 @@ const queryClient = new QueryClient();
 
 const config = createConfig(
   getDefaultConfig({
-    appName: "Journal DApp",
+    appName: "JTrace",
     walletConnectProjectId: "YOUR_WALLETCONNECT_PROJECT_ID", // ganti
     chains: [sepolia],
   })
