@@ -5,7 +5,7 @@ import {
   useAccount,
 } from "wagmi";
 import { UploadCloud } from "lucide-react";
-import contractAbi from "../abi/JTrace.json";
+import contractAbi from "../abi/Jtrace.json";
 
 // Alamat kontrak
 const contractAddress = "0x7C162430F7D622A485D095F5C1cA87F38e0C7e70";
